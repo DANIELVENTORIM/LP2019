@@ -1,2 +1,2 @@
 # LP2019
-Aula lógica de programação 209
+Introdução a lógica de programação 2019
