@@ -1,2 +1,5 @@
-# LP2019
-Introdução a lógica de programação 2019
+# P-II
+## Programação II Sistemas de Informação
+
+### Revisão lógica de programação
+
